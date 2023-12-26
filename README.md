@@ -1,8 +1,5 @@
 <!--Welcome To My Profile(image)-->
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 
 <!--h1 without bottom border-->
 <h1 align="center">Hi 👋, I'm Roman Shrestha</h1>
@@ -37,7 +34,7 @@
 
 - 📄 Know about my experiences **https://romanshrestha.com.np/**
 
-- ⚡ Fun fact ** I have a not-so-secret talent: I can solve a Rubik's Cube in under [10] minutes! It's my go-to brain teaser when I need a quick break from coding. I believe that tackling complex algorithms and debugging tricky code somehow hones my cube-solving skills. If you have any cube-solving tips or challenges, let's connect and compare notes! **
+- ⚡ Fun fact **The term "debugging" comes from a literal bug**
 
 
 <!--Social Link-->
@@ -49,17 +46,34 @@
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!--- stats & Trophy (start) -->
+```python
+class Roman():
+    
+  def __init__(self):
+    self.name = "Roman Shrestha";
+    self.username = "Romanstha";
+    self.location = "Itahari, Nepal";
+    self.twitter = "@romanstha123";
+    self.web = "https://www.romanshrestha.com.np";
+  
+  def __str__(self):
+    return self.name
 
+if __name__ == '__main__':
+    me = Roman()
+```
+
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!--- stats & Trophy (start) -->
 <h3 align="center">Stars</h3>
 <!--- stats (start) -->
-
+<div class="center">
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Romanstha&layout=compact&theme=nord" alt=Romanstha />
-
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Romanstha&show_icons=true&locale=en&theme=onedark" alt="Romanstha" /></p>
-
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Romanstha&theme=vue-dark" alt="Romanstha" /></p>
-
+</div>
 <!--Stars End-->
 
 <!--Statistics Start-->
@@ -164,4 +178,7 @@
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+<!--Quotes Start-->
+<p align = "center">
+	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
+</p>
