@@ -69,7 +69,7 @@ if __name__ == '__main__':
 <h3 align="center">Stars</h3>
 <!--- stats (start) -->
 <div align="center">
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Romanstha&layout=compact&theme=nord" alt=Romanstha />
+<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Romanstha&layout=compact&theme=nord" alt=Romanstha />
 <p>
 <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Romanstha&show_icons=true&locale=en&theme=onedark" alt="Romanstha" />
 </p>
