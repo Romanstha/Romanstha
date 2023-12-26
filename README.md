@@ -3,7 +3,6 @@
 <h3 align="center">A passionate frontend developer from Itahari</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Romanstha&label=Profile%20views&color=0e75b6&style=flat" alt="Romanstha" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Romanstha&theme=chalk" alt="Romanstha" /></a> </p>
 
 - 🔭 I’m currently working on **BookBazzar**
 - 👯 I’m looking to collaborate on **Online Appointment System**
@@ -21,6 +20,8 @@
 </div><h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/Romanstha123" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/twitter.svg" alt="Romanstha123" height="30" width="40" /></a><a href="https://fb.com/roman2057" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/facebook.svg" alt="roman2057" height="30" width="40" /></a><a href="https://www.youtube.com/c/MASKEYSIR" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/youtube.svg" alt="MASKEYSIR" height="30" width="40" /></a></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Romanstha&theme=chalk" alt="Romanstha" /></a> </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
