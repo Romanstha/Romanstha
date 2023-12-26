@@ -101,15 +101,13 @@ if __name__ == '__main__':
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 <!--- trophy (start) -->
 <div align=center>
   <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Romanstha&theme=chalk" alt="Romanstha" /></a> </p>
 </div>
-<!--- trophy (END) -->
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
+<!--- trophy (END) -->
 
 <!--Technologies Known-->
 <div id="user-content-toc">
