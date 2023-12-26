@@ -1,6 +1,5 @@
 <!--Welcome To My Profile(image)-->
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
-
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -8,7 +7,6 @@
 <!--h1 without bottom border-->
 <h1 align="center">Hi 👋, I'm Roman Shrestha</h1>
 <h3 align="center">A passionate frontend developer from Itahari</h3>
-
 
 <!--- snake -->
 <div align="center">
@@ -43,27 +41,25 @@
 
 
 <!--Social Link-->
-<div> <a href="https://twitter.com/Romanstha123" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+<div align="center"> <a href="https://twitter.com/Romanstha123" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 <a href="https://github.com/Romanstha" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href = "mailto:romanstha2057@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
 
-
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!--- stats & Trophy (start) -->
 
 <h3 align="center">Stars</h3>
 <!--- stats (start) -->
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
+
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Romanstha&layout=compact&theme=nord" alt=Romanstha />
 
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Romanstha&show_icons=true&locale=en&theme=onedark" alt="Romanstha" /></p>
 
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Romanstha&theme=vue-dark" alt="Romanstha" /></p>
-</td>
-</tr>
-</table>
+
 <!--Stars End-->
 
 <!--Statistics Start-->
@@ -78,16 +74,17 @@
 </div>
 <!--Statistics End-->
 
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <!--- trophy (start) -->
 <div align=center>
   <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Romanstha&theme=chalk" alt="Romanstha" /></a> </p>
 </div>
 <!--- trophy (END) -->
 
-</div><h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/Romanstha123" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/twitter.svg" alt="Romanstha123" height="30" width="40" /></a><a href="https://fb.com/roman2057" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/facebook.svg" alt="roman2057" height="30" width="40" /></a><a href="https://www.youtube.com/c/MASKEYSIR" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/youtube.svg" alt="MASKEYSIR" height="30" width="40" /></a></p>
-
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 <!--Technologies Known-->
@@ -141,7 +138,27 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/photoshop-line.svg" alt="Photoshop" width="40" height="40"/>
 </p>
 
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+
+<!-- Connect with me -->
+<!--h2 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
+  </ul>
+</div>
+
+<!--icons and links-->
+<p align="center">
+<a href="https://www.linkedin.com/in/roman-shrestha-58a9b2276/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
+<a href="https://twitter.com/Romanstha123" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="twitter" height="50" width="50" /></a> 
+<a href="https://www.instagram.com/siuuuu_________7/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
+
+</p>
+
+<!--profile visit count-->
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Romanstha&label=Profile%20views&color=0e75b6&style=flat" alt="Romanstha" /> </p>
 
 <!--horizontal divider(gradiant)-->
