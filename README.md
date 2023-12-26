@@ -70,8 +70,12 @@ if __name__ == '__main__':
 <!--- stats (start) -->
 <div align="center">
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Romanstha&layout=compact&theme=nord" alt=Romanstha />
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Romanstha&show_icons=true&locale=en&theme=onedark" alt="Romanstha" /></p>
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Romanstha&theme=vue-dark" alt="Romanstha" /></p>
+<p>
+<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Romanstha&show_icons=true&locale=en&theme=onedark" alt="Romanstha" />
+</p>
+<p>
+<img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Romanstha&theme=vue-dark" alt="Romanstha" />
+</p>
 </div>
 <!--Stars End-->
 
