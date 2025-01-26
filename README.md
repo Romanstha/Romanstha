@@ -2,13 +2,10 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <!--h1 without bottom border-->
 <h1 align="center">Hi 👋, I'm Roman Shrestha</h1>
-<h3 align="center">A passionate frontend developer from Itahari</h3>
+<h3 align="center">A passionate developer </h3>
 
 <!--- snake -->
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
+
 
 
 <!--h2 without bottom border-->
@@ -21,9 +18,8 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **BookBazzar**
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning **ReactJS and Python**
 
 - 💬 Ask me about **Bootstrap, PHP**
 
